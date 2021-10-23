@@ -21,3 +21,9 @@ Day 3: Oct 22th, 2021
 Today's progress: Finished the GSS Grid Section and my first project [Tribute Page](https://codepen.io/seanlau1994/full/GRvNvPe)
 
 Thoughts: Just followed the instruction step by step to build the projects side, I did found that I do stil need a lots practice to enhance the knowledge. Stucked for a while to set the ul in the middle of the page, checked the demo page and found that I thought too far away, the basic css properties can make it. Anyway it is a good day and good practice, I spents about 3 - 4 hours on coding today. Keep it going ~
+
+Day 4: Oct 23th, 2021
+
+Today's progress: Working on the second projects 
+
+Thoughts: I really messed everything up at first, I was trying to work on both html content and css file together to make it have a similar looking as the demo project. I realise that i am totally wrong and delete all the css I did and fisnished the html parts. I got more ideas about when I should use a div to wrap my contents in and also recapped the knowledge about how to make a radio, checkbox and select in the html.
