@@ -27,3 +27,9 @@ Day 4: Oct 23th, 2021
 Today's progress: Working on the second projects 
 
 Thoughts: I really messed everything up at first, I was trying to work on both html content and css file together to make it have a similar looking as the demo project. I realise that i am totally wrong and delete all the css I did and fisnished the html parts. I got more ideas about when I should use a div to wrap my contents in and also recapped the knowledge about how to make a radio, checkbox and select in the html.
+
+Day 5: Oct 24th, 2021
+
+Today's progress: Some CSS work and researching
+
+Thoughts: Many skills I am still not able to use them in the real project, working on the css today and did many research and now I am more understand the different between border-box and content-box and why I want to use them, also the difference between em and rem. Recap the position properties I thought I still need learn more about where or in which senarios I should apply them. 
