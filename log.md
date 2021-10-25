@@ -33,3 +33,9 @@ Day 5: Oct 24th, 2021
 Today's progress: Some CSS work and researching
 
 Thoughts: Many skills I am still not able to use them in the real project, working on the css today and did many research and now I am more understand the different between border-box and content-box and why I want to use them, also the difference between em and rem. Recap the position properties I thought I still need learn more about where or in which senarios I should apply them. 
+
+Day 6: Oct 25th, 2021
+
+Today's progress: adding some css to the container div and form of my project
+
+Thoughts: The main thing I was focus on today is try to add line break to different labels and inputs element in the form. The demo projects is using display:flex, but seems the radio options still list in row. I assumed it has been fixed somewhere in the later css properties. I did some research and used display:block for my label element. 
