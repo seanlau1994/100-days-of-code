@@ -46,3 +46,9 @@ Today's progress: finished my second projects [Survey Form](https://codepen.io/s
 
 Thoughts: I am really happy at the moment when I get the code done. I did many research and try to understand why should I do this and how can I use the code. 
 correct the decision I made yesterday and change the display block to flex. Now I have more understanding about the media queries to make the webpage responsive and how "class" work between html and css. 
+
+Day 8: Oct 27th, 2021
+
+Today's progress: working on the landing page project's html part.
+
+Thoughts: I can code the simple contents as user story required but still lack experience about Semantics. For instance when and where to use <section> <article> not only use div for everything. Where to use <div> to make a new line not only use <br>. 
