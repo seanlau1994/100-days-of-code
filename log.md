@@ -52,3 +52,7 @@ Day 8: Oct 27th, 2021
 Today's progress: working on the landing page project's html part.
 
 Thoughts: I can code the simple contents as user story required but still lack experience about Semantics. For instance when and where to use section article not only use div for everything. Where to use div to make a new line not only use br. 
+
+Day 9: Oct 28th, 2021
+
+Today's progess: finished the html file and parts of css. 
