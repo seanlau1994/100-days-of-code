@@ -55,4 +55,10 @@ Thoughts: I can code the simple contents as user story required but still lack e
 
 Day 9: Oct 28th, 2021
 
-Today's progess: finished the html file and parts of css. 
+Today's progress: finished the html file and parts of css. 
+
+Day 10: Oct 29th, 2021 
+
+Today's progress: I finished my third project today, [Product landing page](https://codepen.io/seanlau1994/pen/dyzWjjB). 
+
+Sadly cutted one of my fingers, 9 fingers coding tomorrow Lmao. 
