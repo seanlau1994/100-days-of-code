@@ -62,3 +62,7 @@ Day 10: Oct 29th, 2021
 Today's progress: I finished my third project today, [Product landing page](https://codepen.io/seanlau1994/pen/dyzWjjB). 
 
 Sadly cutted one of my fingers, 9 fingers coding tomorrow Lmao. 
+
+Day 11: Oct 30th, 2021
+
+Today's progress: I am working for my 4th project today 
