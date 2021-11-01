@@ -69,6 +69,10 @@ Today's progress: I am working for my 4th project today
 
 Day 12: Oct 31th, 2021
 
-Today's progress: Working on my 4th projet. 
+Today's progress: Working on my 4th project. 
 
 Thoughts: I gain more experience by trying to code the projects, such as use overflow: hidden and declare the height or width to make the container to the size I want. Also, the if I use position: absolute, I can use the margin-left to make it in the right place, not under my sidebar or if user scroll horizontally my main contents move to left side underneath the sidebar.  
+
+Day 13: Nov 1st, 2021
+
+Today's progress: working on my 4th project
