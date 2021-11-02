@@ -76,3 +76,9 @@ Thoughts: I gain more experience by trying to code the projects, such as use ove
 Day 13: Nov 1st, 2021
 
 Today's progress: working on my 4th project
+
+Day 14: Nov 2nd, 2021
+
+Today's progress: finished my 4th project [Technical Documentation Page](https://codepen.io/seanlau1994/pen/eYEExda?editors=1100)
+
+Thoughts: I got some problem regards the media query, my solution stops responsive once the page width less than 380px, but the demo one is about 280px. Maybe the problem is from I am using rem not px? or missing some properties ?
