@@ -86,3 +86,8 @@ Thoughts: I got some problem regards the media query, my solution stops responsi
 Day 15: Nov 3rd, 2021
 
 Today's progress: start the new project. 
+
+Day 16: Nov 4th, 2021
+
+Today's progress: working on the project
+
