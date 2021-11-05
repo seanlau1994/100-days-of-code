@@ -91,3 +91,6 @@ Day 16: Nov 4th, 2021
 
 Today's progress: working on the project
 
+Day 17: Nov 5th, 2021
+
+Today's progress: working on the project
