@@ -94,3 +94,7 @@ Today's progress: working on the project
 Day 17: Nov 5th, 2021
 
 Today's progress: working on the project
+
+Day 18: Nov 6th, 2021
+
+Today's progress: working on the project
