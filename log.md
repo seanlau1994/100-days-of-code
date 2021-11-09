@@ -106,3 +106,7 @@ Today's progress: Finished my last projects of responsible web design [Personal 
 Day 20: Nov 8th, 2021
 
 Today's progress: start to study JavaScript on FCC and practicing. 
+
+Day 21: Nov 9th, 2021
+
+Today's progress: start to study JavaScript on FCC and practicing. 
