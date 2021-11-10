@@ -110,3 +110,7 @@ Today's progress: start to study JavaScript on FCC and practicing.
 Day 21: Nov 9th, 2021
 
 Today's progress: start to study JavaScript on FCC and practicing. 
+
+Day 22: Nov 10th, 2021
+
+Today's progress: start to study JavaScript on FCC and practicing.
