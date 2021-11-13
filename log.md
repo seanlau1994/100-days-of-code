@@ -122,3 +122,7 @@ Today's progress: start to study JavaScript on FCC and practicing.
 Day 24: Nov 12th, 2021
 
 Today's progress: start to study JavaScript on FCC and practicing.
+
+Day 25: Nov 13th, 2021
+
+Today's progress: start to study JavaScript on FCC and practicing.
