@@ -109,20 +109,26 @@ Today's progress: start to study JavaScript on FCC and practicing.
 
 Day 21: Nov 9th, 2021
 
-Today's progress: start to study JavaScript on FCC and practicing. 
+Today's progress: study JavaScript on FCC and practicing. 
 
 Day 22: Nov 10th, 2021
 
-Today's progress: start to study JavaScript on FCC and practicing.
+Today's progress: study JavaScript on FCC and practicing.
 
 Day 23: Nov 11th, 2021
 
-Today's progress: start to study JavaScript on FCC and practicing.
+Today's progress: study JavaScript on FCC and practicing.
 
 Day 24: Nov 12th, 2021
 
-Today's progress: start to study JavaScript on FCC and practicing.
+Today's progress: study JavaScript on FCC and practicing.
 
 Day 25: Nov 13th, 2021
 
-Today's progress: start to study JavaScript on FCC and practicing.
+Today's progress: study JavaScript on FCC and practicing.
+
+Day 26: Nov 14th, 2021
+
+Today's progress: study JavaScript on FCC and get some trouble to access complex object.
+
+Thoughts: good thing is the problem solved in the end, and I got a clear understanding of which senario I can use dot notation and when I need use bracket notation now. hahahah seems use bracket notation to access object should be first priority.
