@@ -132,3 +132,7 @@ Day 26: Nov 14th, 2021
 Today's progress: study JavaScript on FCC and get some trouble to access complex object.
 
 Thoughts: good thing is the problem solved in the end, and I got a clear understanding of which senario I can use dot notation and when I need use bracket notation now. hahahah seems use bracket notation to access object should be first priority.
+
+Day 27: Nov 15th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
