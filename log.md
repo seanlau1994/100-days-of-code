@@ -136,3 +136,7 @@ Thoughts: good thing is the problem solved in the end, and I got a clear underst
 Day 27: Nov 15th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 28: Nov 16th, 2021
+
+Today's progress: try to code through a lookup profile test, stuck at some point and ask on the forum. 
