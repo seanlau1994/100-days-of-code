@@ -140,3 +140,7 @@ Today's progress: study JavaScript on FCC and practicing.
 Day 28: Nov 16th, 2021
 
 Today's progress: try to code through a lookup profile test, stuck at some point and ask on the forum. 
+
+Day 29: Nov 17th, 2021
+
+Today's progress: study JavaScript on FCC and practicing. Thank you Zak from the FCC forum helped me with the problem I stucked yesterday. 
