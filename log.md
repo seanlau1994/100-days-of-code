@@ -161,3 +161,8 @@ Today's progress: study JavaScript on FCC and practicing.
 Day 33: Nov 21th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 34: Nov 22th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
+
