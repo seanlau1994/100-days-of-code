@@ -174,3 +174,6 @@ Day 36: Nov 24th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
 
+Day 37: Nov 25th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
