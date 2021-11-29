@@ -189,3 +189,7 @@ Today's progress: learning Basic Algorithm Scripting now, starts to get some tro
 Day 40: Nov 28th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 41: Nov 29th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
