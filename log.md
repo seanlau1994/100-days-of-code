@@ -193,3 +193,7 @@ Today's progress: study JavaScript on FCC and practicing.
 Day 41: Nov 29th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 42: Nov 30th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
