@@ -201,3 +201,7 @@ Today's progress: study JavaScript on FCC and practicing.
 Day 43: Dec 1st, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 44: Dec 2nd, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
