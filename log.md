@@ -234,3 +234,7 @@ Today's progress: study JavaScript on FCC and practicing.
 Day 51: Dec 9th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
+
+Day 52: Dec 10th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
