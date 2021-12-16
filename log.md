@@ -255,4 +255,12 @@ Day 56: Dec 14th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
 
+Day 57: Dec 15th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
+
+Day 58: Dec 16th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
+
 
