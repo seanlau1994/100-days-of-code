@@ -267,3 +267,8 @@ Day 59: Dec 18th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
 
+Day 60: Dec 18th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
+
+
