@@ -279,3 +279,11 @@ Day 62: Dec 21th, 2021
 
 Today's progress: study JavaScript on FCC and practicing.
 
+Day 63: Dec 22th, 2021
+
+Today's progress: study JavaScript on FCC and practicing.
+
+Day 64: Dec 23th, 2021
+
+Today's progress: Finished the JavaScript section and get the certificate from FCC
+
