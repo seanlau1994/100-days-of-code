@@ -287,3 +287,7 @@ Day 64: Dec 23th, 2021
 
 Today's progress: Finished the JavaScript section and get the certificate from FCC
 
+Day 65: Dec 24th, 2021
+
+Today's progress: Start the frontend section and get through the boostrap practice 
+
