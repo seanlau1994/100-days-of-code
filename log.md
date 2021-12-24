@@ -291,3 +291,7 @@ Day 65: Dec 24th, 2021
 
 Today's progress: Start the frontend section and get through the boostrap practice 
 
+Day 66: Dec 25th, 2021
+
+Today's progress: Merry Xmas, finished the basic practice about jQuery and partial Sass
+
