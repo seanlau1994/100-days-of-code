@@ -295,3 +295,6 @@ Day 66: Dec 25th, 2021
 
 Today's progress: Merry Xmas, finished the basic practice about jQuery and partial Sass
 
+Day 67: Dec 26th, 2021
+
+Today's progress: Go through the part of React, start to get bit confused, hope it will get better with my study 
