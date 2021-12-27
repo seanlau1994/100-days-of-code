@@ -298,3 +298,7 @@ Today's progress: Merry Xmas, finished the basic practice about jQuery and parti
 Day 67: Dec 26th, 2021
 
 Today's progress: Go through the part of React, start to get bit confused, hope it will get better with my study 
+
+Day 68: Dec 27th, 2021
+
+Today's progress: pushing forward the study regards React, feels a little bit better now. Keep moving on!
