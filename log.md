@@ -310,3 +310,7 @@ Today's progress: study React on FCC and practicing.
 Day 70: Dec 29th, 2021
 
 Today's progress: watch the youtube tutorial to enhance my React study and learn React on FCC and practicing.
+
+Day 70: Dec 31th, 2021
+
+Today's progress: study React on FCC and practicing.
