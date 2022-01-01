@@ -319,3 +319,6 @@ Day 71: Dec 31th, 2021
 
 Today's progress: Finished study React on FCC.
 
+Day 72: 1st Jan, 2022
+
+Today's progress: watch the youtube tutorial to enhance my React study and learn Redux on FCC and practicing.
