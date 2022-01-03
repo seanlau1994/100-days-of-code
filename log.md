@@ -327,4 +327,7 @@ Day 74: 2nd Jan, 2022
 
 Today's progress: Finished Redux Section on FCC. 
 
+Day 75: 3nd Jan, 2022
+
+Today's progress: Practice and studsy ReactAndRedux Section on FCC. 
 
