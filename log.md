@@ -335,4 +335,6 @@ Day 76: 4th Jan, 2022
 
 Today's progress: Finished ReactAndRedux Section on FCC. 
 
+Day 77: 6th Jan, 2022
 
+Today's progress: Watch the youtube video to enhance the React parts . 
