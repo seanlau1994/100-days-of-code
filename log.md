@@ -338,3 +338,7 @@ Today's progress: Finished ReactAndRedux Section on FCC.
 Day 77: 6th Jan, 2022
 
 Today's progress: Watch the youtube video to enhance the React parts . 
+
+Day 78: 7th Jan, 2022
+
+Today's progress: Watch the youtube video to enhance the React parts . 
