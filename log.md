@@ -342,3 +342,7 @@ Today's progress: Watch the youtube video to enhance the React parts .
 Day 78: 7th Jan, 2022
 
 Today's progress: Watch the youtube video to enhance the React parts . 
+
+Day 79: 8th Jan, 2022
+
+Today's progress: work on the project random quote machine 
