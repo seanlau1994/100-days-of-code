@@ -350,3 +350,7 @@ Today's progress: work on the project random quote machine
 Day 80: 9th Jan, 2022
 
 Today's progress: finished the [Random Qutoe Machine](https://seanlau1994.github.io/a_beginner_bootstrap_random_quote_machine/) by following the youtube tutorial, picked up some tips to use my IDE and also hands on the git command to upload my code. It is not really the result I want, I am going to make a version2 by using React and Sass. It is a good practice for beginner like me to hands on and sharp the skills. 
+
+Day 81: 10th Jan, 2022
+
+Today's progress: work on the project random quote machine version.2
