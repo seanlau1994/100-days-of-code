@@ -354,3 +354,13 @@ Today's progress: finished the [Random Qutoe Machine](https://seanlau1994.github
 Day 81: 10th Jan, 2022
 
 Today's progress: work on the project random quote machine version.2
+
+Day 82: 11th Jan, 2022
+
+Today's progress: work on the project random quote machine version.2
+
+Day 83: 12th Jan, 2022
+
+Today's progress: Finish the [Random Quote Machine Version.2](https://seanlau1994.github.io/react-randomQuoteMachine/) and deployed on the github. Version 2.0 used React Bootstrap Sass
+
+
