@@ -363,4 +363,11 @@ Day 83: 12th Jan, 2022
 
 Today's progress: Finish the [Random Quote Machine Version.2](https://seanlau1994.github.io/react-randomQuoteMachine/) and deployed on the github. Version 2.0 used React Bootstrap Sass
 
+Day 84: 13th Jan, 2022
+
+Today's progress: Working on the project markdown previewer.
+
+Day 85: 14th Jan, 2022
+
+Today's progress: Finsihed the Project Mardown Previwewer. 
 
