@@ -371,3 +371,7 @@ Day 85: 14th Jan, 2022
 
 Today's progress: Finsihed the Project Mardown Previwewer. 
 
+Day 86: 15th Jan, 2022
+
+Today's progress: Start do the research for my next project. Drum Machine 
+
