@@ -379,4 +379,8 @@ Day 87: 16th Jan, 2022
 
 Today's progress: Working on the drum machine project, finished the controller layout 
 
+Day 88: 17th Jan, 2022
+
+Today's progress: Working on the drum machine project, made a controller component and render to the app component
+
 
