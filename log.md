@@ -402,3 +402,15 @@ Today's progress: stuck at share the state between, researching
 Day 93: 22th Jan, 2022
 
 Today's progress: installed PubSub, problem solved 
+
+Day 94: 23th Jan, 2022
+
+Today's progress: working on the project.
+
+Day 95: 24th Jan, 2022
+
+Today's progress: working on the project， stuck at publisher multi state , may need use redux to re-do the project 
+
+Day 96: 25th Jan, 2022
+
+Today's progress: Watch the video to review the redux 
